@@ -1,0 +1,7 @@
+{
+    "monitor_dir": "E:/project/process_data/pcapng",
+    "output_dir": "E:/project/process_data/converted_data",
+    "tshark_path": "E:/app/Wireshark/tshark.exe",
+    "check_interval": 10,
+    "timeout_minutes": 30
+}

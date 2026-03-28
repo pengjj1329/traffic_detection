@@ -1,0 +1,6 @@
+{
+    "model_path": "trained_model_paper_20251022_112659.pkl",
+    "monitor_folder": "E:/project/process_data/converted_data",
+    "result_file": "E:/project/process_data/malicious_events.json",
+    "check_interval": 10
+}

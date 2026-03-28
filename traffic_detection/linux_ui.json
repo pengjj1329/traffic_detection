@@ -1,0 +1,7 @@
+{
+    "TIMEOUT": 30,
+    "CHECK_INTERVAL": 10,
+    "SAVE_PATH": "/home/pjj/桌面/result",
+    "SAFE_FILENAME_PATTERN": "[<>:\"/\\\\|?*]",
+    "IFACE": "ens33"
+}
